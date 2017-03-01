@@ -1,6 +1,6 @@
 {
   "name": "react-gif-gs",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Fork of react-gif - which is a react port of [x-gif](http://geelen.github.io/x-gif/)",
   "main": "dist/react-gif.js",
   "scripts": {
