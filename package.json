@@ -1,14 +1,14 @@
 {
-  "name": "react-gif",
+  "name": "react-gif-gs",
   "version": "0.1.0",
-  "description": "React port of [x-gif](http://geelen.github.io/x-gif/)",
+  "description": "Fork of react-gif - which is a react port of [x-gif](http://geelen.github.io/x-gif/)",
   "main": "dist/react-gif.js",
   "scripts": {
     "build": "webpack"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/cezary/react-gif.git"
+    "url": "https://github.com/GorillaStack/react-gif.git"
   },
   "keywords": [
     "react",
